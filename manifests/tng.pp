@@ -1,6 +1,6 @@
 class role::tng {
 
-	include php
-    include mysql::client
+    include ::php
+    include ::mysql::client
 
 }
