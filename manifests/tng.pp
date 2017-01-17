@@ -4,5 +4,6 @@ class role::tng {
     include ::php
     include ::mysql::client
     include ::profile::tng::admin
+    include ::profile::tng::go
 
 }
