@@ -1,4 +1,4 @@
-class role::devops::jenkins_host {
+class role::devops::jenkins_master {
 
     include ::profile::devops::jenkins
 }
