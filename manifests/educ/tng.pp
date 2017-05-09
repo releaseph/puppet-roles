@@ -1,7 +1,7 @@
-### Class role::tng
+### Class role::educ::tng
 # Role to include profiles and modules for TNG
 
-class role::tng {
+class role::educ::tng {
 
     include ::profile::tng::apache
     include ::php
